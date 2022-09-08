@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Tapestry');
+#photo{
+    height: 600px;
+    margin: 15px;
+    float: left;
+    width: 200px;
+    background-color:cadetblue;
+}
+#name,#job{
+    color: whitesmoke;
+}
+#intro{
+    float: left;
+    text-align: justify;
+    width: 1200px;
+    margin: 5px;
+    margin-top: 17px;
+}
+#abouthis{
+    color:whitesmoke;
+    background-color:cadetblue;
+    width: 180px;
+}
+body{
+    background-color: rgb(232, 242, 168);
+    font-family: Tapestry,fantasy;
+
+}
+nav a{
+    text-decoration: none;
+    margin-right: 8px;
+    color: rgb(1,7,12);
+    border-bottom: 3px solid cadetblue;
+}
+a:hover{
+    background-color: whitesmoke;
+}
+#nav{
+    margin-left: 900px;
+}
